@@ -6,3 +6,5 @@ oranges
 milk
 potato
 coffee
+meat
+radishes 
