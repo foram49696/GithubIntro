@@ -8,4 +8,4 @@ potato
 coffee
 meat
 radishes 
-Walnuts
+English Walnuts
